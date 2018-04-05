@@ -27,7 +27,7 @@ def main():
     if ('BROWSER' in environ) and environ['BROWSER']:
         system(environ['BROWSER'] + " " + goal)
     else:
-        system("/usr/bin/gnome-open " + goal)
+        system("/usr/bin/xdg-open " + goal)
 
 
 if __name__ == "__main__":
