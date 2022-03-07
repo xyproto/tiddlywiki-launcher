@@ -3,10 +3,10 @@
 #
 # tiddlywiki launcher
 #
-# Version:  0.2
-# Author:   Alexander F Rødseth <xyproto@archlinux.org>
-# Modified: 2018-04-05
-# License:  MIT
+# Version:  0.3.0
+# Author:   Alexander F. Rødseth <xyproto@archlinux.org>
+# Modified: 2021-03-07
+# License:  BSD-3
 #
 
 from sys import argv
