@@ -42,3 +42,4 @@ if __name__ == "__main__":
 ## General information
 
 * License: BSD-3
+* Version: 0.3.0
